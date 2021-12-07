@@ -26,7 +26,7 @@
  <img src="https://imgur.com/2O0EKYW.png" width=300 height=635>⠀⠀⠀
  <img src="https://imgur.com/zIhv0jP.png" width=300 height=635>⠀⠀⠀
  <img src="https://imgur.com/6hkxe5W.png" width=300 height=635>
- <br><br>
+ <br>
  --------------------------------------------------------------------------------------------------
  <br><br>
  O foco deste aplicativo é enviar notificações ao usuário do horário desejado, ex: eu selecionei o horário como 1h06 da manhã... ai a pessoa recebe notificação nesse horário.
