@@ -2,7 +2,7 @@
  Um aplicativo mobile escrito em React Native criado para o TCC do ensino técnico/médio.
  <br>
  <br>
- Aqui estarei mostrando as telas do aplicativo:
+ Aqui estarei mostrando as telas do aplicativo na Bottom Navigation:
  <br>
  <h3>Splash Screen</h3>
  <img src="https://imgur.com/4eBzqSh.png" width=300 height=635>
