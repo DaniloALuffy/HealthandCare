@@ -12,7 +12,6 @@
  <img src="https://imgur.com/HdNe0fn.png" width=300 height=635>⠀⠀⠀
  <img src="https://imgur.com/RzeD7IU.png" width=300 height=635>
  <br>
- <br>
  <h3>Registration Screen</h3>
  <img src="https://imgur.com/qlZQdQS.png" width=300 height=635>
  <br>
