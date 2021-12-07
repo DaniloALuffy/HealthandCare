@@ -32,6 +32,5 @@
  O foco deste aplicativo é enviar notificações ao usuário do horário desejado, ex: eu selecionei o horário como 1h06 da manhã... ai a pessoa recebe notificação nesse horário.
  <img src="https://imgur.com/Am5whBL.png" width=300 height=635>
  <br>
- <br>
 
  Este projeto utiliza o Firebase Firestore como banco de dados e o Firebase Cloud Massaging para o envio das notificações.
