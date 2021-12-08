@@ -29,7 +29,7 @@
  <br>
  --------------------------------------------------------------------------------------------------
  <br><br>
- O foco deste aplicativo é enviar notificações ao usuário do horário desejado, ex: eu selecionei o horário como 1h06 da manhã... ai a pessoa recebe notificação nesse horário.
+ O foco deste aplicativo é enviar notificações ao usuário no horário desejado para lembrá-lo de tomar seu remédio, ex: eu selecionei o horário como 1h06 da manhã... ai a pessoa recebe notificação nesse horário.
  <img src="https://imgur.com/Am5whBL.png" width=300 height=635>
  <br>
 
