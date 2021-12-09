@@ -2,7 +2,7 @@
  Um aplicativo mobile escrito em React Native criado para o TCC do ensino técnico/médio.
  <br>
  <br>
- Aqui estarei mostrando as telas do aplicativo na Bottom Navigation:
+ Aqui estarei mostrando as telas de Login/Registro e as da Bottom Navigation:
  <br>
  <h3>Splash Screen</h3>
  <img src="https://imgur.com/4eBzqSh.png" width=300 height=635>
@@ -29,7 +29,7 @@
  <br>
  --------------------------------------------------------------------------------------------------
  <br><br>
- O foco deste aplicativo é enviar notificações ao usuário no horário desejado para lembrá-lo de tomar seu remédio, ex: eu selecionei o horário como 1h06 da manhã... ai a pessoa recebe notificação nesse horário.
+ O foco deste aplicativo é enviar notificações ao usuário no horário selecionado para lembrá-lo de tomar seu remédio, ex: eu selecionei o horário como 1h06 da manhã... ai a pessoa recebe notificação nesse horário.
  <img src="https://imgur.com/Am5whBL.png" width=300 height=635>
  <br>
 
