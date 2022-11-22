@@ -33,4 +33,4 @@
  <img src="https://imgur.com/Am5whBL.png" width=300 height=635>
  <br>
 
- Este projeto utiliza o Firebase Firestore como banco de dados e o Firebase Cloud Massaging para o envio das notificações.
+ Este projeto utiliza o Firebase Firestore como banco de dados e o Firebase Cloud Messaging para o envio das notificações.
